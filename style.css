@@ -9,12 +9,7 @@
     background-image: url(./images/banner/banner1.png);
     background-repeat: no-repeat;
 }
-.logo{
-    
-   
-    
-    
-}
+
 .primary{
     color: red;
 }
@@ -155,7 +150,7 @@ plan-des{
 .footer{
     
     width: 1600px;
-    height: 600px;
+    /* height: 600px; */
     margin: 0 auto;
     background-color: rgb(103, 85, 85);
     
